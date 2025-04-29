@@ -112,3 +112,7 @@ API EndPoint
 | POST   | /api/tasks | Create new task |
 | PATCH  | /api/tasks/:taskId | Update a task |
 | DELETE | /api/tasks/:taskId | Delete a task |
+
+
+# Image
+![alt text](image.png)
